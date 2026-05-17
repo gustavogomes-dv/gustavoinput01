@@ -24,7 +24,7 @@
 
 -----
 
-## 🛠️ Stack & Ferramentas
+##  Stack & Ferramentas
 
 #### Linguagens
 
@@ -56,7 +56,7 @@
 
 -----
 
-## 📊 Estatísticas do GitHub
+##  Estatísticas do GitHub
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gustavogomes-dv&theme=tokyonight" alt="streak" />
@@ -68,7 +68,7 @@
 
 -----
 
-## 📌 Projetos em destaque
+##  Projetos em destaque
 
 🔹 **[Fintech](https://github.com/gustavogomes-dv/Fintech)** — Projeto fintech proposto pela FIAP com foco em desenvolvimento de soluções financeiras  
 🔹 **[Challenge JBS](https://github.com/gustavogomes-dv/challenge-jbs-sprint-2---FIAP)** — Gamificação da SWIFT, desenvolvido em equipe  
